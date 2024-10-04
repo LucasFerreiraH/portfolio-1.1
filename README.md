@@ -23,7 +23,7 @@ Aqui você encontra uma seleção de **landing pages** que desenvolvi com **HTML
 ## Entre em Contato
 Se você é dono de um pequeno negócio e quer elevar sua presença digital com uma landing page profissional, entre em contato!
 
-- **E-mail**: [Clique aqui](lucashhenriquees@gmail.com)
+- **E-mail**: lucashhenriquees@gmail.com.
 - **LinkedIn**: [Acessar LinkedIn](https://www.linkedin.com/in/lucas-henrique-a992b01b5/)
 
 ---
